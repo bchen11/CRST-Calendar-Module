@@ -2,7 +2,7 @@
 A Customize Calendar Module for Company Dashboard
 
 
-http://crstcalendar.epizy.com
+
 
 <img width="418" alt="Picture1" src="https://user-images.githubusercontent.com/42919196/145453212-0ee61584-cf5e-4b40-a9cb-e4345f3e0072.png">
 
